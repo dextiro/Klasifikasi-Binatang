@@ -1,1 +1,1 @@
-Program Klasifikasi Binatang
+Program JAVA Klasifikasi Binatang
